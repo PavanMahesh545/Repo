@@ -93,7 +93,7 @@
 				<version>3.0.0-M5</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>E:\Java programs\POM Extent\src\main\resources\testng.xml</suiteXmlFile>
+						<suiteXmlFile>C:\Users\myi35000\git\Repo\POM Extent\src\main\resources\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
